@@ -5,3 +5,5 @@ Surprisingly the recommender worked pretty good and I ended up buying the game a
 
 Proof:
 ![alt text](https://github.com/pmleffers/BGGeekRecommendations/blob/master/BGame.jpg)
+
+We played Ticket to Ride with the niece and nephew over the holiday, and all they wanted to play was 'The Train Game'.
