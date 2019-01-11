@@ -4,4 +4,4 @@ Here is the result of building a recommender based on Boardgame Geek ratings for
 Surprisingly the recommender worked pretty good and I ended up buying the game after I played it!
 
 Proof:
-![alt text](https://github.com/pmleffers/CardRecognitionProject/blob/master/Brainstorms.jpg)
+![alt text](https://github.com/pmleffers/BGGeekRecommendations/blob/master/BGame.jpg)
